@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # vim: tabstop=4 expandtab shiftwidth=4
 """A module for reading and writing EXIF information."""
